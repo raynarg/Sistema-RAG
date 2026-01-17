@@ -1,0 +1,14 @@
+langchain-community
+sentence-transformers
+chromadb
+pypdf
+torch
+langchain
+panel
+openai
+langchain-community
+chromadb
+pypdf
+ipywidgets
+panel
+jupyter_bokeh
