@@ -111,7 +111,7 @@ class RAGPipeline:
         
         print(f"Configurando cadena RetrievalQA con modelo {model_name}...")
         llm = ChatOpenAI(
-            model_name=model_name,
+            model=model_name,
             temperature=0
         )
         
